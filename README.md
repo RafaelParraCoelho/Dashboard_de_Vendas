@@ -14,4 +14,3 @@ This project is an interactive sales dashboard, created using Python, Pandas, an
 - Python
 - Pandas
 - Plotly
-- Jupyter Notebook
