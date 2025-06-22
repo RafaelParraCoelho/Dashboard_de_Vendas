@@ -1,15 +1,15 @@
 #  Sales Dashboard
 
-Este projeto é um dashboard interativo de vendas, criado com Python, Pandas e Plotly. Ele simula a análise de desempenho comercial usando dados fictícios e pode ser adaptado para uso em empresas com ERPs ou CRMs.
+This project is an interactive sales dashboard, created using Python, Pandas, and Plotly. It simulates the analysis of commercial performance using fictional data and can be adapted for use in companies with ERPs or CRMs.
 
-##  Funcionalidades
+##  Features
 
-- Receita mensal
-- Produtos mais vendidos
-- Vendas por região
-- Desempenho por vendedor
+- Monthly revenue
+- Best-selling products
+- Sales by region
+- Performance by salesperson
 
-##  Tecnologias usadas
+##  Technologies Used
 
 - Python
 - Pandas
